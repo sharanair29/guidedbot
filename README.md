@@ -1,11 +1,10 @@
 # guidedbot
 
-Flask and Twilio guided bot
+Flask and Twilio guided Whatsapp bot
 User details are stored in postgres backend
 
 view in pgadmin
 
-password : hoop
 
 guided database
 users table
